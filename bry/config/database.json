@@ -1,0 +1,17 @@
+{
+  "development": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "bry"
+  },
+  "test": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "bry"
+  },
+  "production": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "bry"
+  }
+}

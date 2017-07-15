@@ -1,0 +1,2 @@
+$_mod.def("/marko$4.4.18/src/components/boot", function(require, exports, module, __filename, __dirname) { require('/marko$4.4.18/src/components/init-components-browser'/*'./init-components'*/).___initServerRendered();
+});
